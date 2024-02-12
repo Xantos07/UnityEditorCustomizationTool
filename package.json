@@ -1,0 +1,17 @@
+{
+    "name": "com.Xantos.ACustomEditor",
+    "version": "1.0.0",
+    "displayName": "AColorPalette",
+    "description": "Xantos's Custom editor package.",
+    "unity": "2022.3",
+    "author": 
+    {
+        "name": "Picque Alexis",
+        "email": "picque.alexis.fr@gmail.com",
+        "url": "https://www.linkedin.com/in/alexis-picque/"
+    },
+    "dependencies": {
+        ""
+    },
+    "keywords": ["tool", "custom"]
+}

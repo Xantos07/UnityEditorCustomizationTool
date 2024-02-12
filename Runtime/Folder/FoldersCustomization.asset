@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28d54da4bd53bbd4b8c9e3692fe1ad07, type: 3}
+  m_Name: FoldersCustomization
+  m_EditorClassIdentifier: 
+  FoldersCustomizations:
+  - FolderName: Folder
+    TextureFolder: {fileID: 2800000, guid: 6951ea1d1e386724ab7ba4fffde46c58, type: 3}
+    TextureIcon: {fileID: 2800000, guid: 1e390a7d571f2e64d868a4d4292ad3ce, type: 3}
+  - FolderName: Data
+    TextureFolder: {fileID: 2800000, guid: 6951ea1d1e386724ab7ba4fffde46c58, type: 3}
+    TextureIcon: {fileID: 2800000, guid: 1e390a7d571f2e64d868a4d4292ad3ce, type: 3}
